@@ -9,6 +9,7 @@ RUN apt-get -y update && apt-get -y install \
     python-setuptools \
     python-dev \
     python-mysqldb \
+    libmysqlclient-dev \
     libxml2-dev \
     libxslt1-dev \
     lib32z1-dev \
